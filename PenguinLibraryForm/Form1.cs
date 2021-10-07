@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PenguinLibraryForm
 {
-    public partial class Form1 : Form
+    public partial class penguinForm : Form
     {
-        public Form1()
+        public penguinForm()
         {
             InitializeComponent();
         }
